@@ -1,6 +1,6 @@
 
 
-# Práctica 1: Grupo 1- Equipo 7
+# Proyecto
 
 ## **Sistema de información hospitalaria**
 
