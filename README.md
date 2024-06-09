@@ -44,5 +44,7 @@ este servicio en específico.
 En este apartado podrá encontrar diferentes funcionalidades asociadas a la gestión del hospital, como registro y eliminación de pacientes, vacunas, citas de doctores o vacunas y habitaciones.
 También podrá realizar una serie de consultas sobre los elementos disponibles del hospital, así como información específica de cada usuario u objeto asociado al centro de salud.
 
+## ¿Cómo usar la aplicación?
 
+Si estas en Windows, clona el repositorio y ejecuta el archivo start.bat.
 
